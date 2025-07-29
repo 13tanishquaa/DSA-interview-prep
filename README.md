@@ -1,27 +1,31 @@
 # 🚀 DSA Interview Prep – Solved by Tanishqua Aher
 
-[![GitHub stars](https://img.shields.io/github/stars/13tanishquaa/DSA-interview-prep?style=social)](https://github.com/13tanishquaa/DSA-interview-prep)
-![Language](https://img.shields.io/badge/language-C++-blue)
-![Progress](https://img.shields.io/badge/Progress-4%2F150-green)
-![License](https://img.shields.io/github/license/13tanishquaa/DSA-interview-prep)
+![Language](https://img.shields.io/badge/Language-C++-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Goal-Master%20DSA%20for%20Tech%20Interviews-orange)
 
 ---
 
-📚 **Striver's DSA Sheet** is one of the most trusted DSA roadmaps for coding interviews at top companies like **Google, Amazon, Microsoft, and Flipkart**. This repo contains my **step-by-step solutions** with:
+## 💡 About the Repository
 
-- ✅ Clean and readable C++ code  
-- 🧠 Optimal approaches explained  
-- 🕒 Time and space complexities  
-- 🔗 Links to original problems  
-- 📂 Organized folder structure (Day-wise)
+This repository contains my structured C++ solutions to the most frequently asked **DSA problems** in top product-based companies.  
+I’m following the highly regarded [Striver’s DSA Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) to build strong problem-solving skills, deepen my algorithmic thinking, and prepare for placements at companies like **Google, Amazon, Flipkart, and more**.
 
 ---
 
-## 📌 Goal
+## 🎯 Key Highlights
+
+✨ Clean, readable, and beginner-friendly C++ code  
+🧠 Optimal logic and approach for every problem  
+⏱ Time and space complexities included  
+🔗 Direct links to original questions (from TakeUForward)  
+📁 Organized folder structure (topic-wise and day-wise)
+
+---
 
 🎯 Solve all 150+ problems from the DSA Sheet, track my progress, and revise regularly for top-level placement readiness.
 
 ---
 
-## 📁 Folder Structure
+
 
