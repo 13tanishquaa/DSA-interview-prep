@@ -1,0 +1,25 @@
+// Problem: Leetcode 1 - Two Sum
+// Link: https://leetcode.com/problems/two-sum/submissions/1724325608/
+// Difficulty: Easy
+// Approach: Hash map lookup
+// Time: O(n), Space: O(n)
+// Author: Tanishqua Aher
+
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int, int> map; // value → index
+
+        for (int i = 0; i < nums.size(); i++) {
+            int complement = target - nums[i];
+
+            if (map.find(complement) != map.end()) {
+                return {map[complement], i};
+            }
+
+            map[nums[i]] = i;
+        }
+
+        return {}; // no solution found
+    }
+};
