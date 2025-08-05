@@ -1,0 +1,19 @@
+// Problem: Leetcode 136 - Single Number
+// Link:https://leetcode.com/problems/single-number/submissions/1724309529/
+// Companies: Google, Amazon, Microsoft
+// Approach: XOR all elements
+// Time: O(n), Space: O(1)
+// Author: Tanishqua Aher
+
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        int result = 0;
+
+        for (int num : nums) {
+            result ^= num;
+        }
+
+        return result;
+    }
+};
